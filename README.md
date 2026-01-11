@@ -5,7 +5,7 @@
   
   <h1>Hi, I'm ftwsourav! 🐺</h1>
   <p>
-    <b>Local-First Architect</b> • <b>AI Engineer</b> • <b>TypeScript Specialst</b>
+    <b>Local-First Architect</b> • <b>AI & LLM Engineer</b> • <b>Automation Specialist</b>
   </p>
 </div>
 
@@ -22,12 +22,12 @@
 
 ### ⚡ The Arsenal (Tech Stack)
 
-| **Core Stack** | **Databases & AI** | **Tools & DevOps** |
+| **Core Stack** | **AI & LLMs** | **Automation & DevOps** |
 | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Tesseract](https://img.shields.io/badge/Tesseract.js-blue?style=flat) | ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![Vector DB](https://img.shields.io/badge/Vector_DB-FF6F00?style=flat) | ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Tesseract](https://img.shields.io/badge/Tesseract.js-blue?style=flat) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) |
 
 <br />
 
