@@ -3,7 +3,7 @@
   
   <br />
   
-  <h1>Hi, I'm ftwsourav! 🐺</h1>
+  <h1>Hi, I'm sourav! 🐺</h1>
   <p>
     <b>Local-First Architect</b> • <b>AI Engineer</b> • <b>TypeScript Specialst</b>
   </p>
