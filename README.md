@@ -3,7 +3,7 @@
   
   <br />
   
-  <h1>Hi, I'm sourav! 🐺</h1>
+  <h1>Hi, I'm ftwsourav! 🐺</h1>
   <p>
     <b>Local-First Architect</b> • <b>AI Engineer</b> • <b>TypeScript Specialst</b>
   </p>
@@ -15,7 +15,7 @@
 
 | <b>Screenshot Knowledge Base (SKB)</b> | <b>AI Video Factory</b> |
 | :---: | :---: |
-| <a href="https://github.com/ftwsourav/Screenshot-Knowledge-Base-SKB"><img src="https://socialify.git.ci/ftwsourav/Screenshot-Knowledge-Base-SKB/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" width="300" /></a> | <a href="https://github.com/ftwsourav/ai-video-factory"><img src="https://socialify.git.ci/ftwsourav/ai-video-factory/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" width="300" /></a> |
+| <a href="https://github.com/ftwsourav/Screenshot-Knowledge-Base-SKB"><img src="https://socialify.git.ci/ftwsourav/Screenshot-Knowledge-Base-SKB/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" width="300" /></a> | <a href="https://github.com/ftwsourav/ai-video-factory"><img src="./ai_factory_thumb.png" width="300" /></a> |
 | <i>Local-first screenshots with OCR Search.</i> | <i>Automated AI Video Generation Pipeline.</i> |
 
 <br />
@@ -32,6 +32,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ftwsourav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ftwsourav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftwsourav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
