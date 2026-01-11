@@ -1,12 +1,8 @@
 <div align="center">
   <!-- UPLOAD sourav_github_header.png TO REMOVE BROKEN IMAGE ICON -->
-    <img src="./sourav_github_header.png" alt="Sourav - Full Stack Developer" width="100%" />
-
-      <h1 align="center">Hi there, I'm Sourav! <div align="center">
-  <!-- UPLOAD sourav_github_header.png TO REMOVE BROKEN IMAGE ICON -->
   <img src="./sourav_github_header.png" alt="Sourav - Full Stack Developer" width="100%" />
 
-  <h1 align="center">Hi there, I'm Sourav! 👋</h1>
+  <h1 align="center">Hi, I'm ftwsourav! 👋</h1>
   
   <p align="center">
     <b>Full Stack Developer</b> • <b>Local-First Enthusiast</b> • <b>TypeScript Expert</b>
@@ -23,7 +19,7 @@
 
 <div align="center">
   <h3>🚀 About Me</h3>
-  <p>I'm a developer from India specializing in building high-performance, local-first applications. My current focus is pushing the boundaries of <b>TypeScript</b> and <b>System Design</b>.</p>
+  <p>I'm a Full Stack Developer specializing in **Local-First** systems and **AI Automation**. Currently building high-performance knowledge tools like [SKB](https://github.com/ftwsourav/Screenshot-Knowledge-Base-SKB).</p>
 </div>
 
 <div align="center">
