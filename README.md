@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./ftwsourav_banner_v2.png" width="100%" alt="Sourav — AI Product Builder and Software Engineer" />
 
-  <h1>Hey, I'm Sourav 👋</h1>
+  <h1>Hey, I'm Sourav 🙏🏻🗿</h1>
 
   <p>
     <b>Startup Founder</b> • <b>AI Engineer</b> • <b>Product Builder</b>
